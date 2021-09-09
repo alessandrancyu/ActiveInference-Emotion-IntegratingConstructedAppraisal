@@ -3,4 +3,4 @@ Scripts for MRes dissertation project on an active inference model of emotional 
 
 By Alessandra N. C. Yu, Ryan Smith, Edda Bilek, Sarah Garfinkel, & Karl J. Friston
 
-MResEmotion
+MResEmotionInfLearn_1SimPerc:
